@@ -304,8 +304,8 @@ a:hover {
   margin-top: 16px;
 }
 .btn:hover {
-  background-color: #ffffff;
-  border-color: #eee;
+  background-color: #ff6201;
+  border-color: #323045;
 }
 /****classes****/
 .mb0 {
@@ -606,7 +606,7 @@ header .header_top {
 }
 .box .box_bot .btn:hover {
   color: #323045;
-  border-color: #ffffff;
+  border-color: #ff6201;
 }
 .box .box_bot:hover {
   top: 0;
@@ -762,7 +762,7 @@ a.color1:hover {
 }
 #footer .footer_mail:hover {
   text-decoration: none;
-  background-color: #fff;
+  background-color: #ff5d00;
   color: #323045;
 }
 #toTop {
